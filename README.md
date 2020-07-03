@@ -8,8 +8,7 @@
       <a href="/portfolio.html">Portfólio -</a> 
       <a href="/contact.html">Entrar em contato</a>
 
-    </div>
-
+    
     <div>
       <h5>Entrar em contato</h5>
       <input type="text"
@@ -18,5 +17,3 @@
       <button>Enviar</button>
 
     </div>
-  </body>
-</html>
