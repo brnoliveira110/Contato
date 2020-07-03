@@ -1,12 +1,11 @@
+# Caio Santana
+
 <html>
   <body>
     <div>
-      <h3> Caio Santana</h3>
-
-      <a href="/index.html">Home</a>
-
-      <a href="/portfolio.html">Portfólio</a>
-
+      
+      <h3><a href="/index.html">Início -</a> 
+      <a href="/portfolio.html">Portfólio -</a> 
       <a href="/contact.html">Entrar em contato</a>
 
     </div>
@@ -16,7 +15,7 @@
       <input type="text"
       placeholder="Nome">
       <input type="text" placeholder="E-mail">
-      <button>Enviar E-mail</button>
+      <button>Enviar</button>
 
     </div>
   </body>
