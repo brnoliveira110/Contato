@@ -20,7 +20,7 @@
       
       
       <br>
-      <p> <h3>Clique na imagem para entrar em contato via Whatsapp<br>
+      <p> <h3>Clique na imagem abaixo para entrar em contato via Whatsapp<br>
       <a href="https://api.whatsapp.com/send?1=pt_br&phone=5511954544908">
       <img src="https://github.com/brnoliveira110/Contato/blob/master/WhatsApp-icon.png?raw=true" height="177" width="347"></a>
       
