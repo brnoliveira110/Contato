@@ -7,6 +7,7 @@
       <h3><a href="/index.html">Início -</a> 
       <a href="/portfolio.html">Portfólio -</a> 
       <a href="/contact.html">Entrar em contato</a>
+     </div>
 
     
     <div>
@@ -15,7 +16,14 @@
       placeholder="Nome">
       <input type="text" placeholder="E-mail">
       <button>Enviar</button>
+      </div>
       
-      <div>     
+      <div>
+      <br>     
       <a href="https://api.whatsapp.com/send?1=pt_br&phone=5511954544908">
-      <img src="https://github.com/brnoliveira110/Contato/blob/master/WhatsApp-icon.png?raw=true" height="100" width="100"></a>
+      <img src="https://github.com/brnoliveira110/Contato/blob/master/WhatsApp-icon.png?raw=true" height="150" width="150"></a>
+      
+      </div>
+      
+      </body>
+      </html>
