@@ -6,7 +6,7 @@
       
       <h3><a href="https://brnoliveira110.github.io/Meu-portifolio-no-Github/">Início -</a> 
       <a href="/portfolio.html">Portfólio -</a> 
-      <a href="/contact.html">Entrar em contato</a>
+      <a href="https://brnoliveira110.github.io/Contato/">Entrar em contato</a>
      
 
     
