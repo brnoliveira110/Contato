@@ -15,5 +15,7 @@
       placeholder="Nome">
       <input type="text" placeholder="E-mail">
       <button>Enviar</button>
-
-    </div>
+      
+     
+      <a href="https://api.whatsapp.com/send?1=pt_br&phone=5511954544908">
+      <img src="https://github.com/brnoliveira110/Contato/blob/master/WhatsApp-icon.png?raw=true" height="40" width="40"></a>
