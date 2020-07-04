@@ -14,7 +14,7 @@
       <h5>Entrar em contato</h5>
       <input type="text"
       placeholder="Nome">
-      <input type="text" placeholder="E-mail">
+      <input type="text" placeholder="Email">
       <button>Enviar</button>
       
       
